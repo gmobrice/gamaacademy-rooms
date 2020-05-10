@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400&display=swap");
+body {
+  font-family: "Jost" !important;
+}
+
+.card img {
+  height: 200px;
+}
+.card .card-body .card-title {
+  height: 50px;
+}
+.card .card-body .price {
+  font-weight: 300;
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
